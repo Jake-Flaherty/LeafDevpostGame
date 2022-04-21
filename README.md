@@ -1,6 +1,10 @@
 # LeafDevpostGame
 A game I made for the Leaf hackathon
 
+To play run the following commands:
+$ pip install -r requirements.txt
+$ python3 RealLove.py
+
 It is majorly based of choice making and I made it in about a day. I joined the hackathon too late to get really in-depth into the story.
 There is about 3 mins in each playthrough and 3 total endings. If you get all the endings CONGRATS!
 
