@@ -1,7 +1,8 @@
 # LeafDevpostGame
 A game I made for the Leaf hackathon
 
-To play run the following commands:
+To play run the following commands:                             
+
 $ pip install -r requirements.txt
                                     
 $ python3 RealLove.py
